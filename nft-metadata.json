@@ -2,7 +2,7 @@
   "attributes": [
     {
       "trait_type": "Breed",
-      "value": "Maltipoo"
+      "value": "Cat"
     },
     {
       "trait_type": "Eye color",
@@ -10,6 +10,6 @@
     }
   ],
   "description": "The world's most adorable cat.",
-  "image": "ipfs://QmcjGdYTJxn38hieGSu8cjarHGtQHKPmppdXb9p8yqQCYS",
-  "name": "Ramses"
+  "image": "https://raw.githubusercontent.com/USATUKirill96/simple-json/master/cat.jpg",
+  "name": "Baton"
 }

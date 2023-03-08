@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "The world's most adorable cat.",
+  "image": "ipfs://QmcjGdYTJxn38hieGSu8cjarHGtQHKPmppdXb9p8yqQCYS",
+  "name": "Ramses"
+}

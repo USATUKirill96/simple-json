@@ -1,15 +1,17 @@
-"cat": {
-  "attributes": [
-    {
-      "trait_type": "Breed",
-      "value": "Cat"
-    },
-    {
-      "trait_type": "Eye color",
-      "value": "Mocha"
-    }
-  ],
-  "description": "The world's most adorable cat.",
-  "image": "https://raw.githubusercontent.com/USATUKirill96/simple-json/master/cat.jpg",
-  "name": "Baton"
+{
+  "cat": {
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "The world's most adorable cat.",
+    "image": "https://raw.githubusercontent.com/USATUKirill96/simple-json/master/cat.jpg",
+    "name": "Baton"
+  }
 }
